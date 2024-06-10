@@ -7,10 +7,12 @@ Este e-book tem como objetivo abordar a computação em nuvem, explicar os princ
 ## 🤖 Tecnologias Utilizadas
  
     ChatGPT;
-    Power-Point.
+    Adobe Illustrator.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para criar a estrutura do ebook e o conteúdo. Para criar a capa, usei o "ChatGPT" e depois refinei a imagem no "Adobe Illustrator".
+Utilizei o "ChatGPT" para criar a estrutura do ebook e o conteúdo. 
+
+Para criar a capa, usei o "ChatGPT", passando algumas informações de como gostaria que fosse a capa e depois refinei a imagem no "Adobe Illustrator".
 Ebook foi convertido para PDF e disponibilizado no github, no link a seguir.
 
 
