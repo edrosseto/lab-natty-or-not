@@ -18,3 +18,4 @@ Ebook foi convertido para PDF e disponibilizado no github, no link a seguir.
 
 ## 🚀 Resultados
 📚Leia o livro clicando  [aqui](https://github.com/edrosseto/lab-natty-or-not/blob/main/EBOOK%20CITIZEN%20DEVELOPMENT.pdf)).📚
+[capa do livro] 
